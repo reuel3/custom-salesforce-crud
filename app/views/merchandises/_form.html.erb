@@ -1,0 +1,14 @@
+<%= form_for(@merchandise) do |f| %>
+<%= f %>
+  <div class="field">
+    <%= f.label :Name %><br />
+    <%= f.text_field :Name %>
+  </div>
+  <div class="field">
+    <%= f.label :Description__c %><br />
+    <%= f.text_field :Description__c %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,7 @@
+client_id: 3MVG9rFJvQRVOvk6QiLtY2mi2oSqGmyjiOuozN4Kdp4DlEchGMQKFEt7swKKZZuBaFUCnSR1HOwqsfMDsGtwp
+client_secret: 6125561297359513853
+host: login.salesforce.com
+username: reuel3@gmail.com
+password: 1willlearng4todsIdPP18YGfLHHEYWitVT
+verify_mode: OpenSSL::SSL::VERIFY_NONE
+debugging: false

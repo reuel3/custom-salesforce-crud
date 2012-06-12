@@ -1,0 +1,13 @@
+<p>
+  <b>Name:</b>
+  <%= @merchandise.Name %>
+</p>
+
+<p>
+  <b>Description  c:</b>
+  <%= @merchandise.Description__c %>
+</p>
+
+
+<%= link_to 'Edit', edit_merchandise_path(@merchandise) %> |
+<%= link_to 'Back', merchandises_path %>
